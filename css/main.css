@@ -1,32 +1,77 @@
 body{
-	background: ;
+	
 	font-family: sans-serif;
-	background: #CAD593;
+	margin: 0;
+	padding: 0;
+	background: lightgrey;
+	background: url('gt.jpg');
+	background-size: cover;
+	background-position: center;
 }
 #container{
-background: #A1C349;
+background: #86E7B8;
 
 margin: 0px auto;
 border: 1px solid black;
 
 }
 aside{
+
 	float: left;
-		background: #A1C349;
-	width: 105px;
+		background: #B2FFA8;
+	width: 130px;
 	margin: 0px auto;
 border: 1px solid black;
 }
 header{
-	background: #A1C349;
+	
+	background: #86E7B8;
 	height: 100px;
 	margin: 0px auto;
 border: 1px solid black;
 }
 #contenido{
-	float: right;
-		background: #A1C349;
-	width: 105px;
+	
+	color: white;
+	width: 1100px;
+	height: 300px;
 	margin: 0px auto;
-border: 1px solid black;
+	border: 1px solid blueviolet;
+
+}
+.clearfix{
+	clear: both;
+}
+.boton{
+	text-align: center;
+	display: inline-flex;
+	align-items: center;
+	align-content: center;
+	background: #86E7B8;
+	color: white;
+	font-weight: 500;
+	border: none;
+	text-transform: uppercase;
+	border-radius: 5px;
+	font-family: 'roboto', sans-serif;
+
+}
+.home{
+
+	
+	align-items: center;
+	align-content: center;
+	background: #86E7B8;
+	color: black;
+	font-weight: 500;
+	border: none;
+	text-transform: uppercase;
+	transition: .3s ease all;
+	border-radius: 5px;
+	font-family: 'roboto', sans-serif;
+}
+.img{
+	width: 50px;
+	height: 50px;
+
 }
