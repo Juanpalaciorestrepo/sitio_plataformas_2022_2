@@ -1,0 +1,32 @@
+body{
+	background: ;
+	font-family: sans-serif;
+	background: #CAD593;
+}
+#container{
+background: #A1C349;
+
+margin: 0px auto;
+border: 1px solid black;
+
+}
+aside{
+	float: left;
+		background: #A1C349;
+	width: 105px;
+	margin: 0px auto;
+border: 1px solid black;
+}
+header{
+	background: #A1C349;
+	height: 100px;
+	margin: 0px auto;
+border: 1px solid black;
+}
+#contenido{
+	float: right;
+		background: #A1C349;
+	width: 105px;
+	margin: 0px auto;
+border: 1px solid black;
+}
