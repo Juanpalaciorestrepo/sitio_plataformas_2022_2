@@ -29,12 +29,11 @@ header{
 	margin: 0px auto;
 border: 1px solid black;
 }
-
 #contenido{
-	background: #C4E0F9;
+	
 	color: black;
-	width: 1100px;
-	height: 500px;
+	width: 1050px;
+	height: 2100px;
 	margin: 0px auto;
 	border: 1px solid blueviolet;
 
@@ -66,6 +65,7 @@ border: 1px solid black;
 	font-weight: 500;
 	border: none;
 	text-transform: uppercase;
+	transition: .3s ease all;
 	border-radius: 5px;
 	font-family: 'roboto', sans-serif;
 }
@@ -75,9 +75,23 @@ border: 1px solid black;
 
 }
 .img2{
-	float: right;
-	width: 250px;
-	height: 120px;
-	transform: rotate(340deg);
+	width: 600px;
+	height: 450px;
+	float: left;
+
+}
+.boton2{
+	float: center;
+	text-align: center;
+	display: inline-flex;
+	align-items: center;
+	align-content: center;
+	background: #B95F89;
+	color: white;
+	font-weight: 500;
+	border: none;
+	text-transform: uppercase;
+	border-radius: 5px;
+	font-family: 'roboto', sans-serif;
 
 }
