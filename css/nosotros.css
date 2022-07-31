@@ -3,8 +3,8 @@ body{
 	font-family: sans-serif;
 	margin: 0;
 	padding: 0;
-	background: lightgrey;
-	background: url('gt.jpg');
+	background: #D7F171;
+	
 	background-size: cover;
 	background-position: center;
 }
@@ -47,7 +47,7 @@ border: 1px solid black;
 	display: inline-flex;
 	align-items: center;
 	align-content: center;
-	background: #86E7B8;
+	background: #858AE3;
 	color: white;
 	font-weight: 500;
 	border: none;
