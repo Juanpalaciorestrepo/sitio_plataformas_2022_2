@@ -34,7 +34,7 @@ border: 1px solid black;
 	background: #C4E0F9;
 	color: black;
 	width: 1100px;
-	height: 300px;
+	height: 500px;
 	margin: 0px auto;
 	border: 1px solid blueviolet;
 
@@ -71,9 +71,14 @@ border: 1px solid black;
 	font-family: 'roboto', sans-serif;
 }
 .img{
+	width: 50px;
+	height: 50px;
+
+}
+.img2{
 	float: right;
-	width: 800px;
-	height: 620px;
-	transform: rotate(20deg);
+	width: 250px;
+	height: 120px;
+	transform: rotate(340deg);
 
 }
