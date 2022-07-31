@@ -76,7 +76,7 @@ border: 1px solid black;
 
 }
 .img2{
-	float: right;
+	float: center;
 	width: 250px;
 	height: 120px;
 	transform: rotate(340deg);
